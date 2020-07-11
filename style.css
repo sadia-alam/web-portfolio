@@ -24,6 +24,7 @@ p{
 .half-width img{
     width:100%;
     margin-right:5%;
+    margin-top: 10%;
 }
 .top-banner{
     background-image:url("images/top-banner.png");
